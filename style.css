@@ -1,0 +1,74 @@
+p.caption {
+  color: #77777;
+  margin-top: 10px;
+  font-size: 2em;
+  font-style: italic;
+  color: #006778;
+  text-align: justify;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+.rmdcomment2 {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  background: #A1D8E0;
+  position:relative;
+}
+.rmdcomment2:before {
+    content: "\f0c6";
+    font-family: FontAwesome;
+    left:10px;
+    position:absolute;
+    top:0px;
+    font-size: 45px;
+}
+.rmdcomment {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  background: #edc7b7;
+  position:relative;
+}
+.rmdcomment:before {
+    content: "\f075";
+    font-family: FontAwesome;
+    left:10px;
+    position:absolute;
+    top:0px;
+    font-size: 45px;
+}
+.rmdcomment3 {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  background: #eae7dc;
+  position:relative;
+}
+.rmdcomment3:before {
+    content: "\f080";
+    font-family: FontAwesome;
+    left:10px;
+    position:absolute;
+    top:0px;
+    font-size: 45px;
+}
+.rmdcomment4 {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  background: #eae7dc;
+  position:relative;
+}
+.rmdcomment4:before {
+    content: "\f1fe";
+    font-family: FontAwesome;
+    left:10px;
+    position:absolute;
+    top:0px;
+    font-size: 45px;
+}
